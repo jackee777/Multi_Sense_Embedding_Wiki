@@ -1,2 +1,2 @@
 # Word_Embedding_Wiki
-word embedding wiki
+Please see wiki page. This is public memorandum for me.
