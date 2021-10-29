@@ -66,6 +66,12 @@ survey page https://github.com/tomohideshibata/BERT-related-papers.
 - [Deep Contextualized Word Representations](https://aclanthology.org/N18-1202/), 2018.
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://aclanthology.org/N19-1423/), 2019.
 
+## Word Sense Disambiguation
+
+## Word Semantic Change Detection
+- [Analysing Lexical Semantic Change with Contextualised Word Representations](https://aclanthology.org/2020.acl-main.365/), 2020.
+### Dynamic Word Embedding
+
 ## Application Use
 - [多義語分散表現の文脈化](https://www.jstage.jst.go.jp/article/jnlp/26/4/26_689/_article/-char/ja/), 2019.
 
