@@ -14,12 +14,12 @@ Please commit a related paper for a good survey and discuss (I don't have a plan
 - [GenSense: A Generalized Sense Retrofitting Model](https://aclanthology.org/C18-1141/), 2018.
 
 #### with Word Sense Disambiguation
-- [Multi-sense embeddings through a word sense disambiguation process
-Author links open overlay panel](https://www.sciencedirect.com/science/article/pii/S0957417419304269), 2019.
+- [Multi-sense embeddings through a word sense disambiguation process Author links open overlay panel](https://www.sciencedirect.com/science/article/pii/S0957417419304269), 2019.
 
 ## Un-Supervised (From Corpora Only)
 ### Parametric
-
+- [Multi-prototype vector-space models of word meaning](https://aclanthology.org/N10-1013.pdf), 2010.
+- [Improving Word Representations via Global Contextand Multiple Word Prototypes](https://aclanthology.org/P12-1092.pdf), 2012.
 ### Non-Parametric (without parametic 'k' about a number of sense which words have)
 #### k-means
 - [Efficient Non-parametric Estimation of Multiple Embeddings per Word in Vector Space](https://aclanthology.org/D14-1113/), 2014.
@@ -61,6 +61,7 @@ ACL page https://aclweb.org/aclwiki/Similarity_(State_of_the_art).
 
 ## Intrinsic & Extrinsic (With Sentence, Slightly related paper is categorized to Application Use)
 ### Similarity
+- SCWS [Improving Word Representations via Global Contextand Multiple Word Prototypes](https://aclanthology.org/P12-1092.pdf), 2012. # dupliates
 ### Binary Sense Detection (similar to Word Sense Disambiguation)
 - [WiC: the Word-in-Context Dataset for Evaluating Context-Sensitive Meaning Representations](https://aclanthology.org/N19-1128/), 2019.
 - [XL-WiC: A Multilingual Benchmark for Evaluating Semantic Contextualization](https://aclanthology.org/2020.emnlp-main.584/), 2020.
