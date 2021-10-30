@@ -20,6 +20,7 @@ Please commit a related paper for a good survey and discuss (I don't have a plan
 ### Parametric
 - [Multi-prototype vector-space models of word meaning](https://aclanthology.org/N10-1013.pdf), 2010.
 - [Improving Word Representations via Global Contextand Multiple Word Prototypes](https://aclanthology.org/P12-1092.pdf), 2012.
+- [K-Embeddings: Learning Conceptual Embeddings for Words using Context](https://aclanthology.org/N16-1151/), 2016.
 - [Multimodal Word Distributions](https://aclanthology.org/P17-1151/), 2017.
 
 #### with Latent Dirichlet Allocation
@@ -70,6 +71,8 @@ ACL page https://aclweb.org/aclwiki/Similarity_(State_of_the_art).
 ## Intrinsic & Extrinsic (With Sentence, Slightly related paper is categorized to Application Use)
 ### Similarity
 - SCWS [Improving Word Representations via Global Contextand Multiple Word Prototypes](https://aclanthology.org/P12-1092.pdf), 2012. # dupliates
+- [SemEval-2020 Task 3: Graded Word Similarity in Context](https://aclanthology.org/2020.semeval-1.3.pdf), 2020.
+ 
 ### Binary Sense Detection (similar to Word Sense Disambiguation)
 - [WiC: the Word-in-Context Dataset for Evaluating Context-Sensitive Meaning Representations](https://aclanthology.org/N19-1128/), 2019.
 - [XL-WiC: A Multilingual Benchmark for Evaluating Semantic Contextualization](https://aclanthology.org/2020.emnlp-main.584/), 2020.
@@ -102,6 +105,7 @@ survey page https://github.com/tomohideshibata/BERT-related-papers.
 ### Un-Supervised
 
 ## Word Semantic Change Detection
+- [SemEval-2020 Task 1:Unsupervised Lexical Semantic Change Detection](https://aclanthology.org/2020.semeval-1.1.pdf), 2020.
 - [Analysing Lexical Semantic Change with Contextualised Word Representations](https://aclanthology.org/2020.acl-main.365/), 2020.
 
 ## Dynamic Word Embedding
@@ -116,9 +120,11 @@ survey page https://github.com/tomohideshibata/BERT-related-papers.
 ## Embedding Propery
 - [Unsupervised Word Polysemy Quantification with Multiresolution Grids of Contextual Embeddings](https://arxiv.org/abs/2003.10224), 2020.
 - [単語埋め込みによる論理演算](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/A6-3.pdf), 2021.
+- [A Cluster-based Approach for Improving Isotropy in Contextual Embedding Space](https://aclanthology.org/2021.acl-short.73/), 2021.
 
 ### Brain and Language
 - [Not all ambiguous words are created equal: An EEG investigation of homonymy and polysemy](https://www.sciencedirect.com/science/article/abs/pii/S0093934X12001125), 2012.
 
 # Open Lexical DataBase
-
+- [BabelNet: The automatic construction, evaluation and application of a wide-coverage multilingual semantic network](http://wwwusers.di.uniroma1.it/~navigli/pubs/AIJ_2012_Navigli_Ponzetto.pdf), 2012.
+- [ConceptNet 5.5: An Open Multilingual Graph of General Knowledge](https://arxiv.org/pdf/1612.03975.pdf), 2016.
