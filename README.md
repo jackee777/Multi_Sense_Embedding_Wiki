@@ -24,6 +24,7 @@ Please commit a related paper for a good survey and discuss (I don't have a plan
 #### k-means
 - [Efficient Non-parametric Estimation of Multiple Embeddings per Word in Vector Space](https://aclanthology.org/D14-1113/), 2014.
   - CODE [original github](https://github.com/yauhen-info/NP-MSSG) and [reimplement?](https://github.com/jackee777/MSSG)
+- [Do Multi-Sense Embeddings Improve Natural Language Understanding?](https://aclanthology.org/D15-1200/), 2015.
 
 ### Others
 #### with Part-of-Speech
@@ -99,7 +100,8 @@ survey page https://github.com/tomohideshibata/BERT-related-papers.
 ## Dynamic Word Embedding
 
 ## Application Use
-- [多義語分散表現の文脈化](https://www.jstage.jst.go.jp/article/jnlp/26/4/26_689/_article/-char/ja/), 2019.
+- [Contextualized Word Representations for Multi-Sense Embedding](https://aclanthology.org/Y18-1004.pdf), 2018.
+  - [多義語分散表現の文脈化](https://www.jstage.jst.go.jp/article/jnlp/26/4/26_689/_article/-char/ja/), 2019.
 
 ## Annotated Corpus
 - [SemCor](https://www.kaggle.com/nltkdata/semcor-corpus)
@@ -107,6 +109,9 @@ survey page https://github.com/tomohideshibata/BERT-related-papers.
 ## Embedding Propery
 - [Unsupervised Word Polysemy Quantification with Multiresolution Grids of Contextual Embeddings](https://arxiv.org/abs/2003.10224), 2020.
 - [単語埋め込みによる論理演算](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/A6-3.pdf), 2021.
+
+### Brain and Language
+- [Not all ambiguous words are created equal: An EEG investigation of homonymy and polysemy](https://www.sciencedirect.com/science/article/abs/pii/S0093934X12001125), 2012.
 
 # Open Lexical DataBase
 
