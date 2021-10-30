@@ -6,7 +6,7 @@ Please commit a related paper for a good survey and discuss (I don't have a plan
 - [From Word to Sense Embeddings: A Survey on Vector Representations of Meaning](https://arxiv.org/abs/1805.04032), 2018.
 - [Word Embeddings: A Survey](https://arxiv.org/pdf/1901.09069.pdf), 2019.
 
-## Use Open Lexical DataBase
+## Supervised (including Knowledge Based)
 ### Concept Hierarchy (e.g. WORDNET, BabelNet)
 #### Post Edit
 - [Retrofitting Word Vectors to Semantic Lexicons](https://aclanthology.org/N15-1184/), 2015.
@@ -17,7 +17,7 @@ Please commit a related paper for a good survey and discuss (I don't have a plan
 - [Multi-sense embeddings through a word sense disambiguation process
 Author links open overlay panel](https://www.sciencedirect.com/science/article/pii/S0957417419304269), 2019.
 
-## From Corpora Only
+## Un-Supervised (From Corpora Only)
 ### Parametric
 
 ### Non-Parametric (without parametic 'k' about a number of sense which words have)
@@ -84,8 +84,10 @@ survey page https://github.com/tomohideshibata/BERT-related-papers.
 ## Word Sense Disambiguation
 ### Survey
 - [Recent Trends in Word Sense Disambiguation: A Survey](https://helda.helsinki.fi/bitstream/handle/10138/333318/0593.pdf?sequence=1), 2021.
-### Supervised (or Use Open Lexical DataBase)
-#### Vector Base
+### Supervised
+
+### Knowledge Based
+#### Vector Based
 - [Language Modelling Makes Sense: Propagating Representations through WordNet for Full-Coverage Word Sense Disambiguation](https://aclanthology.org/P19-1569.pdf), 2019. 
 
 ### Un-Supervised
