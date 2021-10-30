@@ -104,3 +104,6 @@ survey page https://github.com/tomohideshibata/BERT-related-papers.
 ## Embedding Propery
 - [Unsupervised Word Polysemy Quantification with Multiresolution Grids of Contextual Embeddings](https://arxiv.org/abs/2003.10224), 2020.
 - [単語埋め込みによる論理演算](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/A6-3.pdf), 2021.
+
+# Open Lexical DataBase
+
