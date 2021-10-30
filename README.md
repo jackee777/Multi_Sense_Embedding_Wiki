@@ -82,11 +82,18 @@ survey page https://github.com/tomohideshibata/BERT-related-papers.
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://aclanthology.org/N19-1423/), 2019.
 
 ## Word Sense Disambiguation
+### Survey
+- [Recent Trends in Word Sense Disambiguation: A Survey](https://helda.helsinki.fi/bitstream/handle/10138/333318/0593.pdf?sequence=1), 2021.
+### Supervised (or Use Open Lexical DataBase)
+#### Vector Base
+- [Language Modelling Makes Sense: Propagating Representations through WordNet for Full-Coverage Word Sense Disambiguation](https://aclanthology.org/P19-1569.pdf), 2019. 
+
+### Un-Supervised
 
 ## Word Semantic Change Detection
 - [Analysing Lexical Semantic Change with Contextualised Word Representations](https://aclanthology.org/2020.acl-main.365/), 2020.
 
-### Dynamic Word Embedding
+## Dynamic Word Embedding
 
 ## Application Use
 - [多義語分散表現の文脈化](https://www.jstage.jst.go.jp/article/jnlp/26/4/26_689/_article/-char/ja/), 2019.
