@@ -1,6 +1,11 @@
 # Multi_Sense_Embedding_Surve (Under construction)
 Please commit a related paper for a good survey and discuss (I don't have a plan to publish a survey paper).
 
+# Semantic Similairy
+## Survey
+- [An overview of word and sense similarity](https://www.cambridge.org/core/journals/natural-language-engineering/article/an-overview-of-word-and-sense-similarity/8516094B74E1B1A32EE64226B6E7C298), 2019.
+- [Evolution of Semantic Similarity—A Survey](https://dl.acm.org/doi/pdf/10.1145/3440755?casa_token=uE-8vRWrfIUAAAAA:q80LvP7BBWBbiFON5Wcd9CXohiz043_CSFNtfWdM3B7z5r3I8T3ok03uBmmVx32jER6d-SVfVvN5).
+
 # Training
 ## Survey
 - [From Word to Sense Embeddings: A Survey on Vector Representations of Meaning](https://arxiv.org/abs/1805.04032), 2018.
