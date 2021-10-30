@@ -42,16 +42,19 @@ ACL page https://aclweb.org/aclwiki/Analogy_(State_of_the_art).
 
 ### Word Similarity
 ACL page https://aclweb.org/aclwiki/Similarity_(State_of_the_art).
-- [MSD-1030: A Well-built Multi-Sense Evaluation Dataset for Sense Representation Models](https://aclanthology.org/2020.lrec-1.711/)
 #### RelatedNess
+- [SemEval-2017 Task 2: Multilingual and Cross-lingual Semantic Word Similarity](https://aclanthology.org/S17-2002/)
+- [Sense identification data: A dataset for lexical semantics (SemEval-2017 Task 2 + with BabelNet ID)](https://www.sciencedirect.com/science/article/pii/S2352340920311616), 2020.
+- [MSD-1030: A Well-built Multi-Sense Evaluation Dataset for Sense Representation Models](https://aclanthology.org/2020.lrec-1.711/), 2020.
 #### Similarity
 
 ## Intrinsic & Extrinsic (With Sentence, Slightly related paper is categorized to Application Use)
 ### Similarity
-### Binary Sense Detection
+### Binary Sense Detection (similar to Word Sense Disambiguation)
 - [WiC: the Word-in-Context Dataset for Evaluating Context-Sensitive Meaning Representations](https://aclanthology.org/N19-1128/), 2019.
-- [XL-WiC: A Multilingual Benchmark for Evaluating Semantic Contextualization](https://aclanthology.org/2020.emnlp-main.584/)
-- []
+- [XL-WiC: A Multilingual Benchmark for Evaluating Semantic Contextualization](https://aclanthology.org/2020.emnlp-main.584/), 2020.
+- [SemEval-2021 Task 2: Multilingual and Cross-lingual Word-in-Context Disambiguation (MCL-WiC)](https://aclanthology.org/2021.semeval-1.3/), 2021.
+- [WiC-TSV: An Evaluation Benchmark for Target Sense Verification of Words in Context](https://aclanthology.org/2021.eacl-main.140/), 2021.
 # Related Works
 ## Word Embedding
 - [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781), 2013.
