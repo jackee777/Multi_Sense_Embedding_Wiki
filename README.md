@@ -20,18 +20,25 @@ Please commit a related paper for a good survey and discuss (I don't have a plan
 ### Parametric
 - [Multi-prototype vector-space models of word meaning](https://aclanthology.org/N10-1013.pdf), 2010.
 - [Improving Word Representations via Global Contextand Multiple Word Prototypes](https://aclanthology.org/P12-1092.pdf), 2012.
-### Non-Parametric (without parametic 'k' about a number of sense which words have)
-#### k-means
+- [Multimodal Word Distributions](https://aclanthology.org/P17-1151/), 2017.
+
+#### with Latent Dirichlet Allocation
+- [A Mixture Model for Learning Multi-Sense Word Embeddings](https://aclanthology.org/S17-1015.pdf), 2017.
+- [Word2Sense: Sparse Interpretable Word Embeddings](https://aclanthology.org/P19-1570/), 2020.
+
+### Non-Parametric (unperfectly, without parametic 'k' about a number of sense which words have)
 - [Efficient Non-parametric Estimation of Multiple Embeddings per Word in Vector Space](https://aclanthology.org/D14-1113/), 2014.
   - CODE [original github](https://github.com/yauhen-info/NP-MSSG) and [reimplement?](https://github.com/jackee777/MSSG)
+- [Multi Sense Embeddings from Topic Models](https://aclanthology.org/W19-7405/), 2019.
+
+### Non-Parametric (perfectly)
 - [Do Multi-Sense Embeddings Improve Natural Language Understanding?](https://aclanthology.org/D15-1200/), 2015.
 
 ### Others
 #### with Part-of-Speech
 - [sense2vec - A Fast and Accurate Method for Word Sense Disambiguation In Neural Word Embeddings](https://arxiv.org/abs/1511.06388), 2015.
 
-#### with Latent Dirichlet Allocation
-- [Word2Sense: Sparse Interpretable Word Embeddings](https://aclanthology.org/P19-1570/), 2020.
+
 
 #### with Word Sense Disambiguation
 
