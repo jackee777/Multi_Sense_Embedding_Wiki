@@ -32,6 +32,7 @@ Author links open overlay panel](https://www.sciencedirect.com/science/article/p
 #### with Part-of-Speech
 - [sense2vec - A Fast and Accurate Method for Word Sense Disambiguation In Neural Word Embeddings](https://arxiv.org/abs/1511.06388), 2015.
 #### with Latent Dirichlet Allocation
+- [Word2Sense: Sparse Interpretable Word Embeddings](https://aclanthology.org/P19-1570/), 2020.
 #### with Word Sense Disambiguation
 
 
@@ -52,6 +53,8 @@ ACL page https://aclweb.org/aclwiki/Similarity_(State_of_the_art).
 - [Sense identification data: A dataset for lexical semantics (SemEval-2017 Task 2 + with BabelNet ID)](https://www.sciencedirect.com/science/article/pii/S2352340920311616), 2020.
 - [MSD-1030: A Well-built Multi-Sense Evaluation Dataset for Sense Representation Models](https://aclanthology.org/2020.lrec-1.711/), 2020.
 #### Similarity
+- [SimLex-999: Evaluating Semantic Models With (Genuine) Similarity Estimation](https://aclanthology.org/J15-4004/), 2015.
+- [Multi-SimLex: A Large-Scale Evaluation of Multilingual and Crosslingual Lexical Semantic Similarity](https://direct.mit.edu/coli/article/46/4/847/97326/Multi-SimLex-A-Large-Scale-Evaluation-of), 2020.
 
 ## Intrinsic & Extrinsic (With Sentence, Slightly related paper is categorized to Application Use)
 ### Similarity
