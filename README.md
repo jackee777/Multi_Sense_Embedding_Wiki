@@ -1,11 +1,6 @@
 # Multi_Sense_Embedding_Surve (Under construction)
 Please commit a related paper for a good survey and discuss (I don't have a plan to publish a survey paper).
 
-# Semantic Similairy
-## Survey
-- [An overview of word and sense similarity](https://www.cambridge.org/core/journals/natural-language-engineering/article/an-overview-of-word-and-sense-similarity/8516094B74E1B1A32EE64226B6E7C298), 2019.
-- [Evolution of Semantic Similarity—A Survey](https://dl.acm.org/doi/pdf/10.1145/3440755?casa_token=uE-8vRWrfIUAAAAA:q80LvP7BBWBbiFON5Wcd9CXohiz043_CSFNtfWdM3B7z5r3I8T3ok03uBmmVx32jER6d-SVfVvN5).
-
 # Training
 ## Survey
 - [From Word to Sense Embeddings: A Survey on Vector Representations of Meaning](https://arxiv.org/abs/1805.04032), 2018.
@@ -17,6 +12,7 @@ Please commit a related paper for a good survey and discuss (I don't have a plan
 - [Retrofitting Word Vectors to Semantic Lexicons](https://aclanthology.org/N15-1184/), 2015.
 - [De-Conflated Semantic Representations](https://aclanthology.org/D16-1174/), 2016.
 - [GenSense: A Generalized Sense Retrofitting Model](https://aclanthology.org/C18-1141/), 2018.
+
 #### with Word Sense Disambiguation
 - [Multi-sense embeddings through a word sense disambiguation process
 Author links open overlay panel](https://www.sciencedirect.com/science/article/pii/S0957417419304269), 2019.
@@ -28,11 +24,14 @@ Author links open overlay panel](https://www.sciencedirect.com/science/article/p
 #### k-means
 - [Efficient Non-parametric Estimation of Multiple Embeddings per Word in Vector Space](https://aclanthology.org/D14-1113/), 2014.
   - CODE [original github](https://github.com/yauhen-info/NP-MSSG) and [reimplement?](https://github.com/jackee777/MSSG)
+
 ### Others
 #### with Part-of-Speech
 - [sense2vec - A Fast and Accurate Method for Word Sense Disambiguation In Neural Word Embeddings](https://arxiv.org/abs/1511.06388), 2015.
+
 #### with Latent Dirichlet Allocation
 - [Word2Sense: Sparse Interpretable Word Embeddings](https://aclanthology.org/P19-1570/), 2020.
+
 #### with Word Sense Disambiguation
 
 
@@ -42,6 +41,9 @@ For Japanese, [言語処理における分散表現学習のフロンティア](
 # Evaluation (Including For Word Embedding)
 ## Survey
 - [A Survey of Word Embeddings Evaluation Methods](https://arxiv.org/abs/1801.09536), 2018.
+## Semantic Similairy Survey
+- [An overview of word and sense similarity](https://www.cambridge.org/core/journals/natural-language-engineering/article/an-overview-of-word-and-sense-similarity/8516094B74E1B1A32EE64226B6E7C298), 2019.
+- [Evolution of Semantic Similarity—A Survey](https://dl.acm.org/doi/pdf/10.1145/3440755?casa_token=uE-8vRWrfIUAAAAA:q80LvP7BBWBbiFON5Wcd9CXohiz043_CSFNtfWdM3B7z5r3I8T3ok03uBmmVx32jER6d-SVfVvN5), 2020.
 ## Intrinsic (Word Only)
 ### Word Analogy
 ACL page https://aclweb.org/aclwiki/Analogy_(State_of_the_art).
@@ -51,6 +53,7 @@ ACL page https://aclweb.org/aclwiki/Similarity_(State_of_the_art).
 #### RelatedNess
 - [SemEval-2017 Task 2: Multilingual and Cross-lingual Semantic Word Similarity](https://aclanthology.org/S17-2002/)
 - [Sense identification data: A dataset for lexical semantics (SemEval-2017 Task 2 + with BabelNet ID)](https://www.sciencedirect.com/science/article/pii/S2352340920311616), 2020.
+ -[Novel metrics for computing semantic similarity with sense embeddings](https://www.sciencedirect.com/science/article/abs/pii/S0950705120305025), 2020.
 - [MSD-1030: A Well-built Multi-Sense Evaluation Dataset for Sense Representation Models](https://aclanthology.org/2020.lrec-1.711/), 2020.
 #### Similarity
 - [SimLex-999: Evaluating Semantic Models With (Genuine) Similarity Estimation](https://aclanthology.org/J15-4004/), 2015.
@@ -63,6 +66,7 @@ ACL page https://aclweb.org/aclwiki/Similarity_(State_of_the_art).
 - [XL-WiC: A Multilingual Benchmark for Evaluating Semantic Contextualization](https://aclanthology.org/2020.emnlp-main.584/), 2020.
 - [SemEval-2021 Task 2: Multilingual and Cross-lingual Word-in-Context Disambiguation (MCL-WiC)](https://aclanthology.org/2021.semeval-1.3/), 2021.
 - [WiC-TSV: An Evaluation Benchmark for Target Sense Verification of Words in Context](https://aclanthology.org/2021.eacl-main.140/), 2021.
+
 # Related Works
 ## Word Embedding
 - [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781), 2013.
@@ -81,6 +85,7 @@ survey page https://github.com/tomohideshibata/BERT-related-papers.
 
 ## Word Semantic Change Detection
 - [Analysing Lexical Semantic Change with Contextualised Word Representations](https://aclanthology.org/2020.acl-main.365/), 2020.
+
 ### Dynamic Word Embedding
 
 ## Application Use
