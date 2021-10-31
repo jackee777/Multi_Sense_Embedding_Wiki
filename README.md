@@ -31,6 +31,8 @@ Please commit a related paper for a good survey and discuss (I don't have a plan
 - [Efficient Non-parametric Estimation of Multiple Embeddings per Word in Vector Space](https://aclanthology.org/D14-1113/), 2014.
   - CODE [original github](https://github.com/yauhen-info/NP-MSSG) and [reimplement?](https://github.com/jackee777/MSSG)
 - [Multi Sense Embeddings from Topic Models](https://aclanthology.org/W19-7405/), 2019.
+##### non-english
+- [Modified multi-sense skip-gram using weighted context and x-means 가중 문맥벡터와 X-means 방법을 이용한 변형 다의어스킵그램](https://www.koreascience.or.kr/article/JAKO202123157173814.page), 2021.
 
 ### Non-Parametric (perfectly)
 - [Do Multi-Sense Embeddings Improve Natural Language Understanding?](https://aclanthology.org/D15-1200/), 2015.
@@ -61,8 +63,8 @@ ACL page https://aclweb.org/aclwiki/Analogy_(State_of_the_art).
 ACL page https://aclweb.org/aclwiki/Similarity_(State_of_the_art).
 #### RelatedNess
 - [SemEval-2017 Task 2: Multilingual and Cross-lingual Semantic Word Similarity](https://aclanthology.org/S17-2002/)
-- [Sense identification data: A dataset for lexical semantics (SemEval-2017 Task 2 + with BabelNet ID)](https://www.sciencedirect.com/science/article/pii/S2352340920311616), 2020.
- -[Novel metrics for computing semantic similarity with sense embeddings](https://www.sciencedirect.com/science/article/abs/pii/S0950705120305025), 2020.
+  - [Sense identification data: A dataset for lexical semantics (SemEval-2017 Task 2 + with BabelNet ID)](https://www.sciencedirect.com/science/article/pii/S2352340920311616), 2020.
+  - [Novel metrics for computing semantic similarity with sense embeddings](https://www.sciencedirect.com/science/article/abs/pii/S0950705120305025), 2020.
 - [MSD-1030: A Well-built Multi-Sense Evaluation Dataset for Sense Representation Models](https://aclanthology.org/2020.lrec-1.711/), 2020.
 #### Similarity
 - [SimLex-999: Evaluating Semantic Models With (Genuine) Similarity Estimation](https://aclanthology.org/J15-4004/), 2015.
@@ -81,6 +83,9 @@ ACL page https://aclweb.org/aclwiki/Similarity_(State_of_the_art).
 
 # Related Works
 ## Word Embedding
+### Survey
+- [Word Representation](https://link.springer.com/chapter/10.1007/978-981-15-5573-2_2), 2020.
+### Training
 - [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781), 2013.
 - [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546), 2013.
 - [GloVe: Global Vectors for Word Representation](https://aclanthology.org/D14-1162/), 2014.
@@ -92,6 +97,9 @@ ACL page https://aclweb.org/aclwiki/Similarity_(State_of_the_art).
 survey page https://github.com/tomohideshibata/BERT-related-papers.
 - [Deep Contextualized Word Representations](https://aclanthology.org/N18-1202/), 2018.
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://aclanthology.org/N19-1423/), 2019.
+
+## Contextual Sense Embedding
+- []
 
 ## Word Sense Disambiguation
 ### Survey
