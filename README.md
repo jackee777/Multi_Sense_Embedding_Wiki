@@ -16,6 +16,9 @@ Please commit a related paper for a good survey and discuss (I don't have a plan
 #### with Word Sense Disambiguation
 - [Multi-sense embeddings through a word sense disambiguation process Author links open overlay panel](https://www.sciencedirect.com/science/article/pii/S0957417419304269), 2019.
 
+### Wikipedia
+- [Sense-aware Semantic Analysis: A Multi-prototype Word Representation Model using Wikipedia](https://clgiles.ist.psu.edu/pubs/AAAI2015-sense-aware.pdf), 2015.
+
 ## Un-Supervised (From Corpora Only)
 ### Parametric
 - [Multi-prototype vector-space models of word meaning](https://aclanthology.org/N10-1013.pdf), 2010.
@@ -40,7 +43,6 @@ Please commit a related paper for a good survey and discuss (I don't have a plan
 ### Others
 #### with Part-of-Speech
 - [sense2vec - A Fast and Accurate Method for Word Sense Disambiguation In Neural Word Embeddings](https://arxiv.org/abs/1511.06388), 2015.
-
 
 
 #### with Word Sense Disambiguation
