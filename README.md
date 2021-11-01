@@ -30,10 +30,14 @@ Please commit a related paper for a good survey and discuss (I don't have a plan
 - [A Mixture Model for Learning Multi-Sense Word Embeddings](https://aclanthology.org/S17-1015.pdf), 2017.
 - [Word2Sense: Sparse Interpretable Word Embeddings](https://aclanthology.org/P19-1570/), 2020.
 
+#### EM Algorithm
+- [A Probabilistic Model for Learning Multi-Prototype Word Embeddings](https://aclanthology.org/C14-1016.pdf), 2014.
+
 ### Non-Parametric (unperfectly, without parametic 'k' about a number of sense which words have)
 - [Efficient Non-parametric Estimation of Multiple Embeddings per Word in Vector Space](https://aclanthology.org/D14-1113/), 2014.
   - CODE [original github](https://github.com/yauhen-info/NP-MSSG) and [reimplement?](https://github.com/jackee777/MSSG)
 - [Multi Sense Embeddings from Topic Models](https://aclanthology.org/W19-7405/), 2019.
+
 ##### non-english
 - [Modified multi-sense skip-gram using weighted context and x-means 가중 문맥벡터와 X-means 방법을 이용한 변형 다의어스킵그램](https://www.koreascience.or.kr/article/JAKO202123157173814.page), 2021.
 
@@ -86,6 +90,7 @@ ACL page https://aclweb.org/aclwiki/Similarity_(State_of_the_art).
 # Related Works
 ## Word Embedding
 ### Survey
+- github memory survey https://githubmemory.com/repo/aflyhat/awesome-sentence-embedding, -2019.
 - [Word Representation](https://link.springer.com/chapter/10.1007/978-981-15-5573-2_2), 2020.
 ### Training
 - [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781), 2013.
