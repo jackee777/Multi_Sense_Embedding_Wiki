@@ -33,6 +33,9 @@ Please commit a related paper for a good survey and discuss (I don't have a plan
 #### EM Algorithm
 - [A Probabilistic Model for Learning Multi-Prototype Word Embeddings](https://aclanthology.org/C14-1016.pdf), 2014.
 
+#### 
+- [MUSE: Modularizing Unsupervised Sense Embeddings](https://aclanthology.org/D17-1034.pdf), 2017.
+
 ### Non-Parametric (unperfectly, without parametic 'k' about a number of sense which words have)
 - [Efficient Non-parametric Estimation of Multiple Embeddings per Word in Vector Space](https://aclanthology.org/D14-1113/), 2014.
   - CODE [original github](https://github.com/yauhen-info/NP-MSSG) and [reimplement?](https://github.com/jackee777/MSSG)
@@ -47,9 +50,6 @@ Please commit a related paper for a good survey and discuss (I don't have a plan
 ### Others
 #### with Part-of-Speech
 - [sense2vec - A Fast and Accurate Method for Word Sense Disambiguation In Neural Word Embeddings](https://arxiv.org/abs/1511.06388), 2015.
-
-
-#### with Word Sense Disambiguation
 
 ## Other Approaches (Sparse, not Dense)
 - [NASARI: a Novel Approach to a Semantically-Aware Representation of Items](https://aclanthology.org/N15-1059.pdf), 2015.
