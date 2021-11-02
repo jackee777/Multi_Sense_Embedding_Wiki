@@ -14,6 +14,7 @@ Please commit a related paper for a good survey and discuss (I don't have a plan
 - [GenSense: A Generalized Sense Retrofitting Model](https://aclanthology.org/C18-1141/), 2018.
 
 #### with Word Sense Disambiguation
+- [SENSEMBED: Learning Sense Embeddings for Word and Relational Similarity](http://wwwusers.di.uniroma1.it/~navigli/pubs/ACL_2015_Iacobaccietal.pdf), 2015.
 - [Multi-sense embeddings through a word sense disambiguation process Author links open overlay panel](https://www.sciencedirect.com/science/article/pii/S0957417419304269), 2019.
 
 ### Wikipedia
@@ -28,7 +29,6 @@ Please commit a related paper for a good survey and discuss (I don't have a plan
 
 #### with Latent Dirichlet Allocation
 - [A Mixture Model for Learning Multi-Sense Word Embeddings](https://aclanthology.org/S17-1015.pdf), 2017.
-- [Word2Sense: Sparse Interpretable Word Embeddings](https://aclanthology.org/P19-1570/), 2020.
 
 #### EM Algorithm
 - [A Probabilistic Model for Learning Multi-Prototype Word Embeddings](https://aclanthology.org/C14-1016.pdf), 2014.
@@ -51,6 +51,10 @@ Please commit a related paper for a good survey and discuss (I don't have a plan
 
 #### with Word Sense Disambiguation
 
+## Other Approaches (Sparse, not Dense)
+- [NASARI: a Novel Approach to a Semantically-Aware Representation of Items](https://aclanthology.org/N15-1059.pdf), 2015.
+- [Word2Sense: Sparse Interpretable Word Embeddings](https://aclanthology.org/P19-1570/), 2020.
+- [Conception: Multilingually-Enhanced, Human-Readable Concept Vector Representations](https://aclanthology.org/2020.coling-main.291.pdf), 2020.
 
 ## Introduction
 For Japanese, [言語処理における分散表現学習のフロンティア](https://jsai.ixsq.nii.ac.jp/ej/index.php?action=pages_view_main&active_action=repository_action_common_download&item_id=2107&item_no=1&attribute_id=22&file_no=1&page_id=13&block_id=23), 2016.
