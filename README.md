@@ -109,6 +109,7 @@ ACL page https://aclweb.org/aclwiki/Similarity_(State_of_the_art).
 - [Word Representations via Gaussian Embedding](https://arxiv.org/abs/1412.6623), 2014.
 - [Poincaré Embeddings for Learning Hierarchical Representations](https://papers.nips.cc/paper/2017/hash/59dfa2df42d9e3d41f5b02bfc32229dd-Abstract.html), 2017.
 - [Enriching Word Vectors with Subword Information](https://aclanthology.org/Q17-1010/), 2017.
+- [Interpreting Pretrained Contextualized Representations via Reductions to Static Embeddings](https://aclanthology.org/2020.acl-main.431.pdf), 2020.
 
 ## Contextual Word Embedding
 survey page https://github.com/tomohideshibata/BERT-related-papers.
