@@ -74,7 +74,8 @@ For Japanese, [言語処理における分散表現学習のフロンティア](
 ## Intrinsic (Word Only)
 ### Word Analogy
 ACL page https://aclweb.org/aclwiki/Analogy_(State_of_the_art).
-
+#### Metric
+- [Dual Embeddings and Metrics for Relational Similarity](https://aclanthology.org/W17-6924.pdf), 2017.
 ### Word Similarity
 ACL page https://aclweb.org/aclwiki/Similarity_(State_of_the_art).
 #### RelatedNess
@@ -116,17 +117,13 @@ survey page https://github.com/tomohideshibata/BERT-related-papers.
 - [Deep Contextualized Word Representations](https://aclanthology.org/N18-1202/), 2018.
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://aclanthology.org/N19-1423/), 2019.
 
-
 ## Word Sense Disambiguation
 ### Survey
 - [Recent Trends in Word Sense Disambiguation: A Survey](https://helda.helsinki.fi/bitstream/handle/10138/333318/0593.pdf?sequence=1), 2021.
 ### Knowledge Based
-
 #### Vector Based
 - [Language Modelling Makes Sense: Propagating Representations through WordNet for Full-Coverage Word Sense Disambiguation](https://aclanthology.org/P19-1569.pdf), 2019. 
 - [With More Contexts Comes Better Performance: Contextualized Sense Embeddings for All-Round Word Sense Disambiguation](https://aclanthology.org/2020.emnlp-main.285/),  2020.
-
-### Un-Supervised
 
 ## Word Semantic Change Detection
 - [SemEval-2020 Task 1:Unsupervised Lexical Semantic Change Detection](https://aclanthology.org/2020.semeval-1.1.pdf), 2020.
