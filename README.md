@@ -16,6 +16,7 @@ Please commit a related paper for a good survey and discuss (I don't have a plan
 #### with Word Sense Disambiguation
 - [SENSEMBED: Learning Sense Embeddings for Word and Relational Similarity](http://wwwusers.di.uniroma1.it/~navigli/pubs/ACL_2015_Iacobaccietal.pdf), 2015.
 - [Multi-sense embeddings through a word sense disambiguation process Author links open overlay panel](https://www.sciencedirect.com/science/article/pii/S0957417419304269), 2019.
+- [SensEmBERT: Context-Enhanced Sense Embeddings for Multilingual Word Sense Disambiguation](https://ojs.aaai.org//index.php/AAAI/article/view/6402), 2020.
 
 ### Wikipedia
 - [Sense-aware Semantic Analysis: A Multi-prototype Word Representation Model using Wikipedia](https://clgiles.ist.psu.edu/pubs/AAAI2015-sense-aware.pdf), 2015.
@@ -29,6 +30,7 @@ Please commit a related paper for a good survey and discuss (I don't have a plan
 
 #### with Latent Dirichlet Allocation
 - [A Mixture Model for Learning Multi-Sense Word Embeddings](https://aclanthology.org/S17-1015.pdf), 2017.
+- [Decoupled Word Embeddings using Latent Topics](https://dl.acm.org/doi/abs/10.1145/3341105.3373997), 2020.
 
 #### EM Algorithm
 - [A Probabilistic Model for Learning Multi-Prototype Word Embeddings](https://aclanthology.org/C14-1016.pdf), 2014.
