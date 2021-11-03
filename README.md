@@ -18,6 +18,9 @@ Please commit a related paper for a good survey and discuss (I don't have a plan
 - [Multi-sense embeddings through a word sense disambiguation process Author links open overlay panel](https://www.sciencedirect.com/science/article/pii/S0957417419304269), 2019.
 - [SensEmBERT: Context-Enhanced Sense Embeddings for Multilingual Word Sense Disambiguation](https://ojs.aaai.org//index.php/AAAI/article/view/6402), 2020.
 
+#### Distill BERT
+- [Decomposing word embedding with the capsule network](https://doi.org/10.1016/j.knosys.2020.106611), 2020.
+
 ### Wikipedia
 - [Sense-aware Semantic Analysis: A Multi-prototype Word Representation Model using Wikipedia](https://clgiles.ist.psu.edu/pubs/AAAI2015-sense-aware.pdf), 2015.
 
@@ -67,7 +70,7 @@ For Japanese, [言語処理における分散表現学習のフロンティア](
 - [A Survey of Word Embeddings Evaluation Methods](https://arxiv.org/abs/1801.09536), 2018.
 ## Semantic Similairy Survey
 - [An overview of word and sense similarity](https://www.cambridge.org/core/journals/natural-language-engineering/article/an-overview-of-word-and-sense-similarity/8516094B74E1B1A32EE64226B6E7C298), 2019.
-- [Evolution of Semantic Similarity—A Survey](https://dl.acm.org/doi/pdf/10.1145/3440755?casa_token=uE-8vRWrfIUAAAAA:q80LvP7BBWBbiFON5Wcd9CXohiz043_CSFNtfWdM3B7z5r3I8T3ok03uBmmVx32jER6d-SVfVvN5), 2020.
+- [Evolution of Semantic Similarity—A Survey](https://dl.acm.org/doi/10.1145/3440755), 2020.
 ## Intrinsic (Word Only)
 ### Word Analogy
 ACL page https://aclweb.org/aclwiki/Analogy_(State_of_the_art).
