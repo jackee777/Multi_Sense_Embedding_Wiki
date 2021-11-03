@@ -115,17 +115,15 @@ survey page https://github.com/tomohideshibata/BERT-related-papers.
 - [Deep Contextualized Word Representations](https://aclanthology.org/N18-1202/), 2018.
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://aclanthology.org/N19-1423/), 2019.
 
-## Contextual Sense Embedding
-- []
 
 ## Word Sense Disambiguation
 ### Survey
 - [Recent Trends in Word Sense Disambiguation: A Survey](https://helda.helsinki.fi/bitstream/handle/10138/333318/0593.pdf?sequence=1), 2021.
-### Supervised
-
 ### Knowledge Based
+
 #### Vector Based
 - [Language Modelling Makes Sense: Propagating Representations through WordNet for Full-Coverage Word Sense Disambiguation](https://aclanthology.org/P19-1569.pdf), 2019. 
+- [With More Contexts Comes Better Performance: Contextualized Sense Embeddings for All-Round Word Sense Disambiguation](https://aclanthology.org/2020.emnlp-main.285/),  2020.
 
 ### Un-Supervised
 
