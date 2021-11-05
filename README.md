@@ -106,6 +106,7 @@ ACL page https://aclweb.org/aclwiki/Similarity_(State_of_the_art).
 - github memory survey https://githubmemory.com/repo/aflyhat/awesome-sentence-embedding, -2019.
 - [Word Representation](https://link.springer.com/chapter/10.1007/978-981-15-5573-2_2), 2020.
 - [A Comprehensive Survey on Word Representation Models: From Classical to State-Of-The-Art Word Representation Language Models](https://dl.acm.org/doi/10.1145/3434237), 2021.
+
 ### Training
 - [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781), 2013.
 - [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546), 2013.
@@ -150,12 +151,16 @@ survey page https://github.com/tomohideshibata/BERT-related-papers.
 - [Contextualized Word Representations for Multi-Sense Embedding](https://aclanthology.org/Y18-1004.pdf), 2018.
   - [多義語分散表現の文脈化](https://www.jstage.jst.go.jp/article/jnlp/26/4/26_689/_article/-char/ja/), 2019.
 
-## Annotated Corpus
-- [SemCor](https://www.kaggle.com/nltkdata/semcor-corpus)
-
 ## Brain and Language
 - [Not all ambiguous words are created equal: An EEG investigation of homonymy and polysemy](https://www.sciencedirect.com/science/article/abs/pii/S0093934X12001125), 2012.
 
 # Open Lexical DataBase
+## Survey
+- [A Short Survey on Sense-Annotated Corpora](https://aclanthology.org/2020.lrec-1.706.pdf), 2020.
+
+## Annotated Corpus
+- [SemCor](https://www.kaggle.com/nltkdata/semcor-corpus)
+
+## Graphical Knowledge
 - [BabelNet: The automatic construction, evaluation and application of a wide-coverage multilingual semantic network](http://wwwusers.di.uniroma1.it/~navigli/pubs/AIJ_2012_Navigli_Ponzetto.pdf), 2012.
 - [ConceptNet 5.5: An Open Multilingual Graph of General Knowledge](https://arxiv.org/pdf/1612.03975.pdf), 2016.
