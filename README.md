@@ -30,6 +30,8 @@ Please commit a related paper for a good survey and discuss (I don't have a plan
 - [Improving Word Representations via Global Contextand Multiple Word Prototypes](https://aclanthology.org/P12-1092.pdf), 2012.
 - [K-Embeddings: Learning Conceptual Embeddings for Words using Context](https://aclanthology.org/N16-1151/), 2016.
 - [Multimodal Word Distributions](https://aclanthology.org/P17-1151/), 2017.
+- [Which Evaluations Uncover Sense Representations that Actually Make Sense?](https://aclanthology.org/2020.lrec-1.214/), 2020. 
+   ※ This paper also proposes the threshold for pruning that can calculate. However, it can use all methods because this is not belonging to Non-Parametric.
 
 #### with Latent Dirichlet Allocation
 - [A Mixture Model for Learning Multi-Sense Word Embeddings](https://aclanthology.org/S17-1015.pdf), 2017.
@@ -39,7 +41,7 @@ Please commit a related paper for a good survey and discuss (I don't have a plan
 #### EM Algorithm
 - [A Probabilistic Model for Learning Multi-Prototype Word Embeddings](https://aclanthology.org/C14-1016.pdf), 2014.
 
-#### 
+#### Reinforcement Learning
 - [MUSE: Modularizing Unsupervised Sense Embeddings](https://aclanthology.org/D17-1034.pdf), 2017.
 
 ### Non-Parametric (unperfectly, without parametic 'k' about a number of sense which words have)
@@ -124,11 +126,13 @@ survey page https://github.com/tomohideshibata/BERT-related-papers.
 ## Dynamic Word Embedding
 
 ## Embedding Propery
+- [Towards Qualitative Word Embeddings Evaluation: Measuring Neighbors Variation](https://aclanthology.org/N18-4005.pdf), 2018.
 - [Deconstructing word embedding algorithms](https://aclanthology.org/2020.emnlp-main.285/), 2020.
 - [Unsupervised Word Polysemy Quantification with Multiresolution Grids of Contextual Embeddings](https://arxiv.org/abs/2003.10224), 2020.
 - [Are All Good Word Vector Spaces Isomorphic?](https://aclanthology.org/2020.emnlp-main.257/), 2020.
 - [単語埋め込みによる論理演算](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/A6-3.pdf), 2021.
 - [A Cluster-based Approach for Improving Isotropy in Contextual Embedding Space](https://aclanthology.org/2021.acl-short.73/), 2021.
+- [Monitoring geometrical properties of word embeddings for detecting the emergence of new topics](https://aclanthology.org/2021.emnlp-main.76/), 2021.
 
 ## Word Sense Disambiguation
 ### Survey
