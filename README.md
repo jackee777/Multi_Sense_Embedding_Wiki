@@ -117,6 +117,18 @@ survey page https://github.com/tomohideshibata/BERT-related-papers.
 - [Deep Contextualized Word Representations](https://aclanthology.org/N18-1202/), 2018.
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://aclanthology.org/N19-1423/), 2019.
 
+## Interpretability
+- [The POLAR Framework: Polar Opposites Enable Interpretability of Pre-Trained Word Embeddings](https://dl.acm.org/doi/abs/10.1145/3366423.3380227), 2020.
+
+## Dynamic Word Embedding
+
+## Embedding Propery
+- [Deconstructing word embedding algorithms](https://aclanthology.org/2020.emnlp-main.285/), 2020.
+- [Unsupervised Word Polysemy Quantification with Multiresolution Grids of Contextual Embeddings](https://arxiv.org/abs/2003.10224), 2020.
+- [Are All Good Word Vector Spaces Isomorphic?](https://aclanthology.org/2020.emnlp-main.257/), 2020.
+- [単語埋め込みによる論理演算](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/A6-3.pdf), 2021.
+- [A Cluster-based Approach for Improving Isotropy in Contextual Embedding Space](https://aclanthology.org/2021.acl-short.73/), 2021.
+
 ## Word Sense Disambiguation
 ### Survey
 - [Recent Trends in Word Sense Disambiguation: A Survey](https://helda.helsinki.fi/bitstream/handle/10138/333318/0593.pdf?sequence=1), 2021.
@@ -129,21 +141,12 @@ survey page https://github.com/tomohideshibata/BERT-related-papers.
 - [SemEval-2020 Task 1:Unsupervised Lexical Semantic Change Detection](https://aclanthology.org/2020.semeval-1.1.pdf), 2020.
 - [Analysing Lexical Semantic Change with Contextualised Word Representations](https://aclanthology.org/2020.acl-main.365/), 2020.
 
-## Dynamic Word Embedding
-
 ## Application Use
 - [Contextualized Word Representations for Multi-Sense Embedding](https://aclanthology.org/Y18-1004.pdf), 2018.
   - [多義語分散表現の文脈化](https://www.jstage.jst.go.jp/article/jnlp/26/4/26_689/_article/-char/ja/), 2019.
 
 ## Annotated Corpus
 - [SemCor](https://www.kaggle.com/nltkdata/semcor-corpus)
-
-## Embedding Propery
-- [Deconstructing word embedding algorithms](https://aclanthology.org/2020.emnlp-main.285/), 2020.
-- [Unsupervised Word Polysemy Quantification with Multiresolution Grids of Contextual Embeddings](https://arxiv.org/abs/2003.10224), 2020.
-- [Are All Good Word Vector Spaces Isomorphic?](https://aclanthology.org/2020.emnlp-main.257/), 2020.
-- [単語埋め込みによる論理演算](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/A6-3.pdf), 2021.
-- [A Cluster-based Approach for Improving Isotropy in Contextual Embedding Space](https://aclanthology.org/2021.acl-short.73/), 2021.
 
 ### Brain and Language
 - [Not all ambiguous words are created equal: An EEG investigation of homonymy and polysemy](https://www.sciencedirect.com/science/article/abs/pii/S0093934X12001125), 2012.
