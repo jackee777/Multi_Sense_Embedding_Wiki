@@ -50,6 +50,9 @@ Please commit a related paper for a good survey and discuss (I don't have a plan
   - CODE [original github](https://github.com/yauhen-info/NP-MSSG) and [reimplement?](https://github.com/jackee777/MSSG)
 - [Multi Sense Embeddings from Topic Models](https://aclanthology.org/W19-7405/), 2019.
 
+#### with Word Similarity Graph
+- [Making Sense of Word Embeddings](https://aclanthology.org/W16-1620.pdf), 2016.
+
 ##### non-english
 - [Modified multi-sense skip-gram using weighted context and x-means 가중 문맥벡터와 X-means 방법을 이용한 변형 다의어스킵그램](https://www.koreascience.or.kr/article/JAKO202123157173814.page), 2021.
 
