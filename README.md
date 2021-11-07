@@ -1,4 +1,4 @@
-# Multi_Sense_Embedding_Surve (Under construction)
+# Multi_Sense_Embedding_Survey (Under construction)
 Please commit a related paper for a good survey and discuss (I don't have a plan to publish a survey paper).
 
 # Training
@@ -35,8 +35,9 @@ Please commit a related paper for a good survey and discuss (I don't have a plan
 
 #### with Latent Dirichlet Allocation
 - [A Mixture Model for Learning Multi-Sense Word Embeddings](https://aclanthology.org/S17-1015.pdf), 2017.
-- [Decoupled Word Embeddings using Latent Topics](https://dl.acm.org/doi/abs/10.1145/3341105.3373997), 2020.
+- [Learning Topic-Sensitive Word Representations](https://aclanthology.org/P17-2070/), 2017.
 - [Jointly Learning Word Embeddings and Latent Topics](https://dl.acm.org/doi/10.1145/3077136.3080806), 2017.
+- [Decoupled Word Embeddings using Latent Topics](https://dl.acm.org/doi/abs/10.1145/3341105.3373997), 2020.
 
 #### EM Algorithm
 - [A Probabilistic Model for Learning Multi-Prototype Word Embeddings](https://aclanthology.org/C14-1016.pdf), 2014.
