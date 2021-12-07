@@ -159,11 +159,12 @@ survey page https://github.com/tomohideshibata/BERT-related-papers.
 - [Not all ambiguous words are created equal: An EEG investigation of homonymy and polysemy](https://www.sciencedirect.com/science/article/abs/pii/S0093934X12001125), 2012.
 
 # Open Lexical DataBase
-## Survey
+## Annotated Corpus
+### Survey
 - [A Short Survey on Sense-Annotated Corpora](https://aclanthology.org/2020.lrec-1.706.pdf), 2020.
 
-## Annotated Corpus
-- [SemCor](https://www.kaggle.com/nltkdata/semcor-corpus)
+### Corpora
+[semcor](https://www.kaggle.com/nltkdata/semcor-corpus)
 
 ## Graphical Knowledge
 - [BabelNet: The automatic construction, evaluation and application of a wide-coverage multilingual semantic network](http://wwwusers.di.uniroma1.it/~navigli/pubs/AIJ_2012_Navigli_Ponzetto.pdf), 2012.
